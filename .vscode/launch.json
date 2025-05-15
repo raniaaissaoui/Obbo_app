@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch App",
+      "type": "android",
+      "request": "launch",
+      "mainClass": "com.obbo.app.MainActivity",
+      "deviceId": "BVK6R19419002731"
+    },
+    {
+      "name": "Run ADB Command",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/.bin/adb",
+      "args": ["shell", "am", "start", "-n", "com.obbo.app/.MainActivity"]
+    }
+  ]
+}

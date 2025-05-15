@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64219913268",
+    "project_id": "obbo-f8493",
+    "storage_bucket": "obbo-f8493.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64219913268:android:0d67fe727f33db59f63e61",
+        "android_client_info": {
+          "package_name": "com.obbo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhYkxYmvvNVOo6uufK7HGfQeZnwAUMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
